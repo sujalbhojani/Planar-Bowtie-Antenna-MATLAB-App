@@ -68,7 +68,7 @@ The MATLAB app is organized into an intuitive layout, as shown in the screenshot
    - Input the required design parameters.  
    - Use the side buttons to generate plots and evaluate antenna properties.
   
-![Planar Bowtie Antenna App](images/Screenshot.png)
+![Planar Bowtie Antenna App](images/screenshot.png)
 
 4. For the script:  
    - Modify the design parameters directly in the code.  
